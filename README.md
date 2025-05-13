@@ -71,7 +71,7 @@ Click the Download Menu button to access the PDF menu.
 
 🚀 Deployment
 The site is deployed using GitHub Pages:
-👉 
+👉 https://tonywabuko.github.io/Doc-Eats/
 
 To deploy:
 
